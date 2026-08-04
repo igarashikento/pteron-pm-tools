@@ -1,0 +1,22 @@
+{
+  "name": "pteron-pm-tools",
+  "owner": { "name": "Pteron PM育成チーム" },
+  "description": "Pteron社内向けPM育成AIスキル集(壁打ちメンター/ロールプレイ/クイズ)",
+  "plugins": [
+    {
+      "name": "pm-mentor-ai",
+      "source": "./plugins/pm-mentor-ai",
+      "description": "PM実務の壁打ちメンターAI(問いかけ中心のソクラテス式メンタリング)"
+    },
+    {
+      "name": "pm-roleplay-training",
+      "source": "./plugins/pm-roleplay-training",
+      "description": "PM実務シナリオ(要件調整・優先度交渉・炎上リカバリ等)のロールプレイ演習トレーニングAI"
+    },
+    {
+      "name": "pm-quiz-ai",
+      "source": "./plugins/pm-quiz-ai",
+      "description": "PMBOK第7版ベースのPM知識クイズ「エースPMクイズ」"
+    }
+  ]
+}
