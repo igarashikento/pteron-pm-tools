@@ -1,0 +1,5 @@
+{
+  "name": "pm-practical-advisor-ai",
+  "description": "PM実務アドバイザーAI(要件・スコープ判断支援。専門知識に基づき選択肢と根拠を直接提示)",
+  "version": "1.0.0"
+}
