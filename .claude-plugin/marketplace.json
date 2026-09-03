@@ -9,14 +9,29 @@
       "description": "PM実務の壁打ちメンターAI(問いかけ中心のソクラテス式メンタリング)"
     },
     {
+      "name": "pm-mentor-ai-baseline",
+      "source": "./plugins/pm-mentor-ai-baseline",
+      "description": "PM実務の壁打ちメンターAI(比較検証用・プロファイル機能なし版)"
+    },
+    {
       "name": "pm-roleplay-training",
       "source": "./plugins/pm-roleplay-training",
       "description": "PM実務シナリオ(要件調整・優先度交渉・炎上リカバリ等)のロールプレイ演習トレーニングAI"
     },
     {
+      "name": "pm-roleplay-training-baseline",
+      "source": "./plugins/pm-roleplay-training-baseline",
+      "description": "PM実務シナリオ(要件調整・優先度交渉・炎上リカバリ等)のロールプレイ演習トレーニングAI(比較検証用・プロファイル機能なし版)"
+    },
+    {
       "name": "pm-quiz-ai",
       "source": "./plugins/pm-quiz-ai",
       "description": "PMBOK第7版ベースのPM知識クイズ「エースPMクイズ」"
+    },
+    {
+      "name": "pm-quiz-ai-baseline",
+      "source": "./plugins/pm-quiz-ai-baseline",
+      "description": "PMBOK第7版ベースのPM知識クイズ「エースPMクイズ」(比較検証用・プロファイル機能なし版)"
     }
   ]
 }
