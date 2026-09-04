@@ -1,0 +1,5 @@
+{
+  "name": "pm-skills-profile-poc",
+  "description": "PM育成AI3スキル(mentor/roleplay/quiz)のプロファイル連携(パーソナライズ)機能の効果を検証する社内PoC用プラグイン。プロファイルあり版・なし版(baseline)の計6スキルと、共有プロファイルの初期構成雛形(profile-template/)を1つにまとめて配布する",
+  "version": "0.1.0"
+}
