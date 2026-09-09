@@ -6,7 +6,12 @@
     {
       "name": "pm-skills-profile-poc",
       "source": "./plugins/pm-skills-profile-poc",
-      "description": "PM育成AI3スキル(mentor/roleplay/quiz)のプロファイル連携機能の効果検証PoC用プラグイン(あり版/baseline版の計6スキル+共有プロファイル雛形を1つに同梱)"
+      "description": "PM育成AI3スキル(mentor/roleplay/quiz)のプロファイル連携機能の効果検証PoC用プラグイン(プロファイルあり版・共有プロファイル雛形を同梱)"
+    },
+    {
+      "name": "pm-skills-profile-poc-baseline",
+      "source": "./plugins/pm-skills-profile-poc-baseline",
+      "description": "PM育成AI3スキル(mentor/roleplay/quiz)のプロファイル連携機能の効果検証PoC用プラグイン(比較検証用・プロファイル機能なしのbaseline版)"
     }
   ]
 }
